@@ -200,7 +200,7 @@ function createNavMenu(value) {
       "<span  id=" +
       i +
       "menuNav" +
-      " type='button'>Menu-nav <br> </span><button clas id="+i+'iconSetting'+" class='fa fa-pen btnNavMenu'></button></a>" +
+      " type='button'>Menu-nav <br> </span><button id="+i+'iconSetting'+" class='fa fa-pen btnNavMenu'></button></a>" +
       "<ul id=" +
       i +
       "subMenu" +
