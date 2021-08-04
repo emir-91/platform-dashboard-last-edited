@@ -53,8 +53,6 @@ table {
 }
 
 #drag1 {
-    width: 100%;
-    height: auto;
     background-color: transparent;
     border: 1px solid #000000;
     position: inherit;
