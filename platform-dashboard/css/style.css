@@ -962,7 +962,8 @@ ul.top-menu>li>a:focus {
     width: 40px;
     position: absolute;
     top: 3px;
-    right: 80px;
+    right: 35px;
+    padding: 3px 4px;
     border-radius: 5px;
     z-index: 2;
     border: none;
@@ -1003,9 +1004,11 @@ ul.top-menu>li>a:focus {
 .btnNavMenu {
     display: block;
     box-sizing: border-box;
-    margin-left: 10px;
-    padding: 8px;
-    font-size: 10px;
+    margin-left: 25px;
+    padding: 3px 4px;
+    font-size: 9px;
+    width: 22px;
+    height: 22px;
     background: transparent;
     border-radius: 8px;
     color: #fff;
